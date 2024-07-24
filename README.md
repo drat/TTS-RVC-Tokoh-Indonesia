@@ -12,6 +12,7 @@ Proyek ini menggabungkan teknologi text-to-speech (TTS) dan voice conversion unt
 
 ![TTS-RVC-Tokoh-Indonesia-a-Hugging-Face-Space-by-Deddy](https://github.com/user-attachments/assets/1f1bf92f-80f8-4858-bff4-dfd8f082020c)
 
+[![Jalankan Aplikasi ini](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-xl-dark.svg)](https://deddy-tts-rvc-tokoh-indonesia.hf.space)
 
 ## Fitur
 
