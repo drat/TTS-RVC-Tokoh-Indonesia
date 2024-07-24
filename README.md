@@ -24,9 +24,10 @@ Proyek ini menggabungkan teknologi text-to-speech (TTS) dan voice conversion unt
 https://github.com/user-attachments/assets/ef4ad30e-26ed-4d8e-9e00-26dc292df11d
 
 
-
 https://github.com/user-attachments/assets/564b4222-7943-4061-b363-0e7f8bafa619
 
+
+https://github.com/user-attachments/assets/ceccfaf4-1ad3-42d2-840e-f01ba309b0ab
 
 
 ## Cara Menggunakan
