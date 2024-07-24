@@ -10,11 +10,24 @@ Pembuktian algoritma **Retrieval-based Voice Conversion (RVC)** dan teknologi **
 
 Proyek ini menggabungkan teknologi text-to-speech (TTS) dan voice conversion untuk menghasilkan suara tokoh-tokoh Indonesia. Algoritma yang digunakan adalah RVC dan Edge TTS, yang memungkinkan konversi teks ke suara dengan kualitas tinggi.
 
+![TTS-RVC-Tokoh-Indonesia-a-Hugging-Face-Space-by-Deddy](https://github.com/user-attachments/assets/1f1bf92f-80f8-4858-bff4-dfd8f082020c)
+
+
 ## Fitur
 
 - Konversi teks ke suara menggunakan teknologi canggih.
 - Pilihan model suara yang dilatih khusus untuk bahasa Indonesia, Jawa, dan Sunda.
 - Antarmuka pengguna yang modern dan elegan.
+
+## Contoh Hasil
+
+https://github.com/user-attachments/assets/ef4ad30e-26ed-4d8e-9e00-26dc292df11d
+
+
+
+https://github.com/user-attachments/assets/564b4222-7943-4061-b363-0e7f8bafa619
+
+
 
 ## Cara Menggunakan
 
@@ -26,6 +39,9 @@ Proyek ini menggabungkan teknologi text-to-speech (TTS) dan voice conversion unt
 
 ## Instalasi
 
+1. Unduh file pada menu "Release"
+2. Unzip dan jalankan
+   
 Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 1. Clone repositori ini:
